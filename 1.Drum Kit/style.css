@@ -42,3 +42,7 @@ kbd{
     color: rgb(255, 193, 78);
     font-weight: 700;
 }
+
+#playing{
+    transform:scale(1.1);
+}
